@@ -1,9 +1,15 @@
 theme: jekyll-theme-minimal
 title: Catatan Khaerul Anas
-description: Website ini berisi profil, catatan, dan proyek pembelajaran saya di bindang TI 
+description: Website ini berisi profil, catatan, dan proyek pembelajaran saya di bidang TI 
 show_downloads: True
 navigation:
-  - title: Home
+  - title: Beranda
     url: /
-  - title: Setup
-    url: setup
+  - title: Profil
+    url: profil
+  - title: Proyek
+    url: proyek
+  - title: Catatan
+    url: catatan
+  - title: Buku
+    url: buku
